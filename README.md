@@ -113,14 +113,11 @@
 
 ## 📈 Contribution Activity
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hspatil2203&theme=github-dark)](https://github.com/hspatil2203)
-
----
+![GitHub Activity](https://samdev-pulse.vercel.app/api/profile?username=hspatil2203&theme=tokyonight)
 
 ## 🏆 GitHub Achievements
 
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hspatil2203&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-svg.vercel.app/api/profile?username=hspatil2203&mode=glass&theme=dark" alt="GitHub Achievements">
 
 ---
 
