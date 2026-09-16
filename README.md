@@ -66,8 +66,9 @@
 
 ### 💻 Programming & Development
 
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,nodejs,react" alt="Programming Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css" alt="Programming Technologies"/>
 </p>
 
 ### 🗄️ Databases
