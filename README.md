@@ -113,8 +113,13 @@
 
 ## 📈 Contribution Activity
 
+<h2>📈 Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hspatil2203&bg_color=ffffff&color=0e75b6&line=0e75b6&point=24292f&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hspatil2203&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
