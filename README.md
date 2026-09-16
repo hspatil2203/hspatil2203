@@ -113,21 +113,15 @@
 
 ## 📈 Contribution Activity
 
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hspatil2203&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hspatil2203&theme=github-dark)](https://github.com/hspatil2203)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hspatil2203&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</p>
+## 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hspatil2203&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
