@@ -113,7 +113,6 @@
 
 ## 📈 Contribution Activity
 
-<h2>📈 Contribution Activity</h2>
 
 <p align="center">
   <img
